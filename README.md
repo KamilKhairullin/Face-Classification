@@ -84,3 +84,6 @@ Epoch 25/25 <br />
 <img src="https://user-images.githubusercontent.com/54369751/112760378-6b9fcf80-8fff-11eb-828f-b9a3012e8b69.png" width="350" height="350">
 <img src="https://user-images.githubusercontent.com/54369751/112760380-6d699300-8fff-11eb-9aac-d3a05d9be738.png" width="350" height="350">
 </p>
+
+# Link to model
+https://drive.google.com/file/d/1uJRyz3YkAYZ18tf-vJI3g8wg6PHLBV_1/view?usp=sharing
