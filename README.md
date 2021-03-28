@@ -22,13 +22,13 @@ Examples:
  ## Fitting CNN
  We fit results into CNN with VGG16 pretrained layers. Output of fitting is below
 Epoch 1/25
-2/69 [..............................] - ETA: 7s - loss: 0.7251 - accuracy: 0.5000
-69/69 [==============================] - 18s 266ms/step - loss: 0.6687 - accuracy: 0.5902 - val_loss: 0.4861 - val_accuracy: 0.7604
-Epoch 2/25
-69/69 [==============================] - 17s 248ms/step - loss: 0.4652 - accuracy: 0.7732 - val_loss: 0.2536 - val_accuracy: 0.8958
-Epoch 3/25
-69/69 [==============================] - 17s 250ms/step - loss: 0.3015 - accuracy: 0.8761 - val_loss: 0.1622 - val_accuracy: 0.9167
-Epoch 4/25
+2/69 [..............................] - ETA: 7s - loss: 0.7251 - accuracy: 0.5000 &nbsp;
+69/69 [==============================] - 18s 266ms/step - loss: 0.6687 - accuracy: 0.5902 - val_loss: 0.4861 - val_accuracy: 0.7604 &nbsp;
+Epoch 2/25 &nbsp;
+69/69 [==============================] - 17s 248ms/step - loss: 0.4652 - accuracy: 0.7732 - val_loss: 0.2536 - val_accuracy: 0.8958 &nbsp;
+Epoch 3/25 &nbsp;
+69/69 [==============================] - 17s 250ms/step - loss: 0.3015 - accuracy: 0.8761 - val_loss: 0.1622 - val_accuracy: 0.9167 &nbsp;
+Epoch 4/25 &nbsp;
 69/69 [==============================] - 17s 248ms/step - loss: 0.2142 - accuracy: 0.9098 - val_loss: 0.1541 - val_accuracy: 0.9271
 Epoch 5/25
 69/69 [==============================] - 17s 247ms/step - loss: 0.1626 - accuracy: 0.9317 - val_loss: 0.1197 - val_accuracy: 0.9479
