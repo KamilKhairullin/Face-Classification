@@ -1,7 +1,7 @@
 # Face Classification Convolutional Neural Network
 Project distinguishes Keira Knightley or Natalie Portman in the photo.
 
-#Implementation details
+# Implementation details
 
 ## Creating dataset
 With the help of the JS script, I downloaded images from Google Images on request 'Keira Knightley' and 'Natalie Portman'.
