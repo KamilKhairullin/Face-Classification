@@ -26,14 +26,9 @@ Epoch 25/25 <br />
 
 ## Results
 <p float="left">
-<img src="https://user-images.githubusercontent.com/54369751/112760315-1fed2600-8fff-11eb-953b-781e247c9b56.png" width="150" height="150">
-<img src="https://user-images.githubusercontent.com/54369751/112760322-29768e00-8fff-11eb-90c8-8ef930095aa0.png" width="150" height="150">
-<img src="https://user-images.githubusercontent.com/54369751/112760326-2ed3d880-8fff-11eb-9aa8-f84caf8ba75b.png" width="150" height="150">
-</p>
-<p float="left">
-<img src="https://user-images.githubusercontent.com/54369751/112760373-693d7580-8fff-11eb-8793-ed6fcb511c93.png" width="350" height="350">
-<img src="https://user-images.githubusercontent.com/54369751/112760378-6b9fcf80-8fff-11eb-828f-b9a3012e8b69.png" width="350" height="350">
-<img src="https://user-images.githubusercontent.com/54369751/112760380-6d699300-8fff-11eb-9aac-d3a05d9be738.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/54369751/112760373-693d7580-8fff-11eb-8793-ed6fcb511c93.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/54369751/112760378-6b9fcf80-8fff-11eb-828f-b9a3012e8b69.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/54369751/112760380-6d699300-8fff-11eb-9aac-d3a05d9be738.png" width="150" height="150">
 </p>
 
 # Link to model
