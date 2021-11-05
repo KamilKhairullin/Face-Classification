@@ -14,7 +14,7 @@ Examples:  <br />  <br />
 ---->>>
 <img src="https://user-images.githubusercontent.com/54369751/112759836-76f1fb80-8ffd-11eb-8eb9-345b64bad382.jpg" width="150" height="150">
 <p float="left">
-<img src="https://user-images.githubusercontent.com/54369751/112760042-4363a100-8ffe-11eb-8074-66595dd94155.jpg" width="75" height="150">
+<img src="https://user-images.githubusercontent.com/54369751/112760042-4363a100-8ffe-11eb-8074-66595dd94155.jpg" width="100" height="150">
 ---->>>
 <img src="https://user-images.githubusercontent.com/54369751/112760058-52e2ea00-8ffe-11eb-8e7b-a5db97622453.jpg" width="150" height="150">
  </p>
